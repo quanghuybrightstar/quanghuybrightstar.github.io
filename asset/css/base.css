@@ -223,7 +223,7 @@ html{
     margin-bottom: 40px;
 }
 
-.travel-label::before{
+/* .travel-label::before{
     content: "";
     position: absolute;
     top: 0;
@@ -232,7 +232,7 @@ html{
     height: 95px;
     background-color: var(--text-color);
     margin-left: -2px;
-}
+} */
 
 .travel-label__heading{
     font-size: 4.5rem;
