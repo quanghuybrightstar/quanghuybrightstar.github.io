@@ -1,4 +1,4 @@
-
+﻿
 #header{
     position: fixed;
     top: 0;
@@ -209,7 +209,7 @@
 .travel__search-overlay::before{
     content: "";
     position: absolute;
-    top: -46px;
+    top: -44px;
     left: 30%;
     right: 30%;
     border-top-right-radius: 15px;
