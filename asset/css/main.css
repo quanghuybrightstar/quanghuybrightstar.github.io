@@ -957,10 +957,9 @@ i.travel__reviews-icon{
 }
 
 .sub__footer-text{
-    padding: 0 15px;
     font-size: 1.4rem;
     line-height: 3rem;
-    padding: 20px 0;
+    padding: 20px 15px;
 }
 
 .sub__footer-title{
