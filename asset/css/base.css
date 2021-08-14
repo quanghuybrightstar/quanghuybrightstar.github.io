@@ -157,7 +157,7 @@ html{
 
 .dropdown{
     position: absolute;
-    top: calc(100% + 8px);
+    top: calc(100% + 6px);
     padding: 20px;
     border-width: 0 0 3px 0;
     border-style: solid;
