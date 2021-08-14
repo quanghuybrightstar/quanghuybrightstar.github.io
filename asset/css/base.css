@@ -223,17 +223,6 @@ html{
     margin-bottom: 40px;
 }
 
-/* .travel-label::before{
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 50%;
-    width: 4px;
-    height: 95px;
-    background-color: var(--text-color);
-    margin-left: -2px;
-} */
-
 .travel-label__heading{
     font-size: 4.5rem;
     color: var(--text-color);
