@@ -532,7 +532,7 @@
 .travel__destination-search-confirm{
     position: absolute;
     right: 1px;
-    height: calc(100% - 3px);
+    height: calc(100% - 2px);
 }
 
 .travel__destination-search-submit{
